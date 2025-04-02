@@ -1,4 +1,4 @@
-# Ju Ho Kim - Professional Resume Website
+# Ju Ho Kim - Resume
 
 Thank you for taking time to visit this page :)
 
@@ -7,6 +7,10 @@ This is my personal resume website.
 ## Overview
 
 This is a simple static website built with HTML and CSS.
+
+## Deployment
+
+To view the deployed site, visit: https://jurinho17-sv.github.io/resume-JHK/
 
 ## Pages
 
@@ -25,10 +29,6 @@ This is a simple static website built with HTML and CSS.
 
 - HTML5
 - CSS3
-
-### Deployment
-
-To view the deployed site, visit: https://jurinho17-sv.github.io/resume-JHK/
 
 ## Contact
 
