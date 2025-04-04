@@ -15,7 +15,7 @@ To view the deployed site, visit: https://jurinho17-sv.github.io/resume-JHK/
 ## Pages
 
 - **Main Page (index.html)**: My resume with education, work experience, projects, and skills.
-- **About Me (other-pages/about.html)**: A brief introduction about myself and my career aspirations.
+- **About Me (other-pages/about.html)**: A brief introduction about myself.
 - **Contact (other-pages/contact.html)**: Ways to get in touch with me.
 
 ## Features
